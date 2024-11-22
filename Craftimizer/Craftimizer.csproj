@@ -38,7 +38,7 @@
    </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="DalamudPackager" Version="2.1.13" />
+    <PackageReference Include="DalamudPackager" Version="11.0.0" />
     <PackageReference Include="ExdSheets" Version="2.1.0" />
     <PackageReference Include="Lumina" Version="4.1.1" ExcludeAssets="all" />
     <PackageReference Include="Microsoft.Extensions.ObjectPool" Version="9.0.0-preview.1.24081.5" ExcludeAssets="all" />
